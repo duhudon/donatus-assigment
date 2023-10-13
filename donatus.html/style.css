@@ -1,0 +1,12 @@
+header {
+    color: rebeccapurple; text-align: center; background-color: navajowhite;
+}
+h2 {
+    color: blueviolet;
+}
+img {
+    border: 5px double blueviolet; border-radius: 50%;
+}
+section {
+text-align: center; width: 600px;
+}
