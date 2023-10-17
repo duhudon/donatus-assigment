@@ -8,5 +8,5 @@ img {
     border: 5px double blueviolet; border-radius: 50%;
 }
 section {
-text-align: justify; width: 600px; margin-left: 5cm;
+text-align: justify; width: 600px; margin-left: 5cm; font-size: 150;
 }
